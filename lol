@@ -1,4 +1,7 @@
-
+-- kiddo love c00lkid🥶🤓
+-- c00lkiddo need image id : 117852766427133
+--its id image urmom🥶💦👵🏻🤑🤑
+--omgg plspsl update 0.111111111191919
 local G2L = {};
 
 -- StarterGui.F3XHUB
@@ -404,7 +407,7 @@ G2L["34"]["TextSize"] = 14;
 G2L["34"]["TextColor3"] = Color3.fromRGB(0, 0, 0);
 G2L["34"]["Size"] = UDim2.new(0.4410480558872223, 0, 0.785714328289032, 0);
 G2L["34"]["BorderColor3"] = Color3.fromRGB(0, 0, 0);
-G2L["34"]["Text"] = [[F3X HUB BY NOREMIUS]];
+G2L["34"]["Text"] = [[f3x copy skid mummy by Team c00lkid]]; --frfr by c00lgay noob
 G2L["34"]["Name"] = [[Title]];
 G2L["34"]["BackgroundTransparency"] = 1;
 G2L["34"]["Position"] = UDim2.new(0.03711787238717079, 0, 0.1250000149011612, 0);
@@ -578,7 +581,7 @@ local script = G2L["6"];
 				[2] = {
 					[1] = {
 						["Part"] = part,
-						["TextureId"] = "rbxassetid://117852766427133"..texid
+						["TextureId"] = "rbxassetid://"..texid
 					}
 				}
 			}
@@ -800,7 +803,7 @@ local script = G2L["9"];
 				[2] = {
 					[1] = {
 						["Part"] = part,
-						["TextureId"] = "rbxassetid://117852766427133"..texid
+						["TextureId"] = "rbxassetid://"..texid
 					}
 				}
 			}
@@ -1089,7 +1092,7 @@ local script = G2L["c"];
 				[2] = {
 					[1] = {
 						["Part"] = part,
-						["TextureId"] = "rbxassetid://117852766427133"..texid
+						["TextureId"] = "rbxassetid://"..texid
 					}
 				}
 			}
@@ -1330,7 +1333,7 @@ local script = G2L["f"];
 				[2] = {
 					[1] = {
 						["Part"] = part,
-						["TextureId"] = "rbxassetid://117852766427133"..texid
+						["TextureId"] = "rbxassetid://"..texid
 					}
 				}
 			}
@@ -1453,7 +1456,7 @@ local script = G2L["f"];
 						["Part"] = part,
 						["Face"] = side,
 						["TextureType"] = "Decal",
-						["Texture"] = "rbxassetid://117852766427133".. asset
+						["Texture"] = "rbxassetid://".. asset
 					}
 				}
 			}
@@ -1486,7 +1489,7 @@ local script = G2L["f"];
 				end
 			end 
 		end
-		spam("157755295")
+		spam("117852766427133")
 	end)
 	
 	coroutine.wrap(ZYJPOKE_fake_script)()
@@ -1610,7 +1613,7 @@ local script = G2L["f"];
 					[2] = {
 						[1] = {
 							["Part"] = part,
-							["TextureId"] = "rbxassetid://117852766427133"..texid
+							["TextureId"] = "rbxassetid://"..texid
 						}
 					}
 				}
@@ -1848,8 +1851,7 @@ local script = G2L["12"];
 					[1] = {
 						["Part"] = part,
 						["MeshId"] = "rbxassetid://"..meshid
-				
-	}
+					}
 				}
 			}
 			_(args)
@@ -1860,7 +1862,7 @@ local script = G2L["12"];
 				[2] = {
 					[1] = {
 						["Part"] = part,
-						["TextureId"] = "rbxassetid://117852766427133"..texid
+						["TextureId"] = "rbxassetid://"..texid
 					}
 				}
 			}
@@ -2100,7 +2102,7 @@ local script = G2L["12"];
 					[2] = {
 						[1] = {
 							["Part"] = part,
-							["TextureId"] = "rbxassetid://117852766427133"..texid
+							["TextureId"] = "rbxassetid://"..texid
 						}
 					}
 				}
@@ -2280,7 +2282,7 @@ local script = G2L["15"];
 				[2] = {
 					[1] = {
 						["Part"] = part,
-						["TextureId"] = "rbxassetid://117852766427133"..texid
+						["TextureId"] = "rbxassetid://"..texid
 					}
 				}
 			}
@@ -2457,7 +2459,7 @@ local script = G2L["18"];
 				[2] = {
 					[1] = {
 						["Part"] = part,
-						["TextureId"] = "rbxassetid://117852766427133"..texid
+						["TextureId"] = "rbxassetid://"..texid
 					}
 				}
 			}
@@ -2700,7 +2702,7 @@ local script = G2L["1b"];
 				[2] = {
 					[1] = {
 						["Part"] = part,
-						["TextureId"] = "rbxassetid://117852766427133"..texid
+						["TextureId"] = "rbxassetid://"..texid
 					}
 				}
 			}
@@ -2921,7 +2923,7 @@ local script = G2L["1e"];
 				[2] = {
 					[1] = {
 						["Part"] = part,
-						["TextureId"] = "rbxassetid://117852766427133"..texid
+						["TextureId"] = "rbxassetid://"..texid
 					}
 				}
 			}
@@ -3177,7 +3179,7 @@ local script = G2L["21"];
 				[2] = {
 					[1] = {
 						["Part"] = part,
-						["TextureId"] = "rbxassetid://117852766427133"..texid
+						["TextureId"] = "rbxassetid://"..texid
 					}
 				}
 			}
@@ -3397,7 +3399,7 @@ local script = G2L["24"];
 				[2] = {
 					[1] = {
 						["Part"] = part,
-						["TextureId"] = "rbxassetid://117852766427133"..texid
+						["TextureId"] = "rbxassetid://"..texid
 					}
 				}
 			}
@@ -3688,7 +3690,7 @@ local script = G2L["27"];
 				[2] = {
 					[1] = {
 						["Part"] = part,
-						["TextureId"] = "rbxassetid://117852766427133"..texid
+						["TextureId"] = "rbxassetid://"..texid
 					}
 				}
 			}
@@ -3811,7 +3813,7 @@ local script = G2L["27"];
 						["Part"] = part,
 						["Face"] = side,
 						["TextureType"] = "Decal",
-						["Texture"] = "rbxassetid://117852766427133".. asset
+						["Texture"] = "rbxassetid://".. asset
 					}
 				}
 			}
@@ -3838,7 +3840,7 @@ local script = G2L["27"];
 				end
 			end
 		end
-		Sky("16244538891")
+		Sky("117852766427133")
 	
 	end)
 end;
@@ -3962,7 +3964,7 @@ local script = G2L["2a"];
 				[2] = {
 					[1] = {
 						["Part"] = part,
-						["TextureId"] = "rbxassetid://117852766427133"..texid
+						["TextureId"] = "rbxassetid://"..texid
 					}
 				}
 			}
@@ -4279,7 +4281,7 @@ local script = G2L["2d"];
 				[2] = {
 					[1] = {
 						["Part"] = part,
-						["TextureId"] = "rbxassetid://117852766427133"..texid
+						["TextureId"] = "rbxassetid://"..texid
 					}
 				}
 			}
@@ -4513,7 +4515,7 @@ local script = G2L["30"];
 				[2] = {
 					[1] = {
 						["Part"] = part,
-						["TextureId"] = "rbxassetid://117852766427133"..texid
+						["TextureId"] = "rbxassetid://"..texid
 					}
 				}
 			}
@@ -4751,7 +4753,7 @@ local script = G2L["33"];
 				[2] = {
 					[1] = {
 						["Part"] = part,
-						["TextureId"] = "rbxassetid://117852766427133"..texid
+						["TextureId"] = "rbxassetid://"..texid
 					}
 				}
 			}
